@@ -13,19 +13,14 @@ An end-to-end exploratory data analysis (EDA) and visual investigation of **10,7
 ## Visual Highlights
 
 ### 1. Pathogen Prevalence
-![Pathogen Prevalence](figures/fig1_species_prevalence.png)
 
 ### 2. Isolate Resistance Rate Distribution
-![Resistance Distribution](figures/fig2_resistance_distribution.png)
 
 ### 3. Multi-Drug Resistance Burden by Species
-![Species Resistance Violin and Box Plot](figures/fig3_species_resistance_violin_box.png)
 
 ### 4. Drug-Level Resistance Profile (15 Antibiotics)
-![Antibiotic Resistance Rates](figures/fig4_antibiotic_resistance_rates.png)
 
 ### 5. Antibiotic Co-Resistance Correlation Matrix
-![Co-Resistance Heatmap](figures/fig5_coresistance_heatmap.png)
 
 ---
 
